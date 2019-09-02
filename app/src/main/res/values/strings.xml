@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Погода в Хромтау</string>
+    <string name="main_title">Местоположение: Хромтау</string>
+    <string name="degrees">Место отображения t°</string>
+    <string name="weather_icons_description">Иконки погоды</string>
+    <string name="openweathermapreference">Данные с openweathermap.org</string>
+</resources>
